@@ -1,0 +1,4 @@
+,Predicted setosa,Predicted versicolor,Predicted virginica
+Actual setosa,10,0,0
+Actual versicolor,0,9,1
+Actual virginica,0,1,9
